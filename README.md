@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tiger-mode/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tiger Mode](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tiger-mode/) |
+| **Get License** | [Official Music Licensing for Tiger Mode](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tiger-mode/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
